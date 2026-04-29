@@ -1,4 +1,4 @@
-# 🚀 Automated Cross-Cloud Backup, Recovery & Compliance Framework (Azure-First)
+# Automated Cross-Cloud Backup, Recovery & Compliance (Azure-First)
 
 ## 📌 Overview
 
