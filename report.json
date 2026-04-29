@@ -1,0 +1,9 @@
+{
+    "timestamp": "2026-04-28 10:17:12.290110",
+    "score": 100.0,
+    "controls": {
+        "ISO_27001_Backup_Policy": true,
+        "NIST_CP_9_Backup": true,
+        "CIS_Recovery_Test": true
+    }
+}
